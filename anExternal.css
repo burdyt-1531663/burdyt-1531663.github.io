@@ -1,0 +1,21 @@
+<style>
+p.ex1 {
+    font: 15px arial, sans-serif;
+}
+
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
+h1 {
+    text-decoration: underline;
+}
+.image {
+    float: left;
+}
+.text {
+    text-align: center;
+}
+
+
+
+</style>
