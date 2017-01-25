@@ -1,0 +1,35 @@
+body{
+    background-image: url('seigaiha.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+h2{
+    color: black;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+fieldset {
+    border: 5px solid grey;
+    background-color: lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+legend {
+    color: black;
+    font-size: 20px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    text-decoration: underline;    
+}
+
+label {
+    font: 15px arial;
+    color: black;
+}
